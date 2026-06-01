@@ -1,2 +1,2 @@
-# YiHuan-tools
-blender tools for Neverness To Everness / YiHuan
+# yihuan-tools
+blender tools for neverness to everness / yihuan
